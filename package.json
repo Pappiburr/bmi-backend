@@ -1,0 +1,14 @@
+{
+  "name": "bmi-backend",
+  "version": "1.0.0",
+  "description": "BMI Calculator",
+  "main": "bmiCalculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlexP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
